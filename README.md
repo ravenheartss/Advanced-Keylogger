@@ -17,10 +17,5 @@ This tool can and should only be used with written consent of the owner of the s
 ## TODO
 
 - Screenshot every X minutes
-- Self-destruction option
-- Encrypt log and system files using PKC (Public Key Cryptography) 
 - Make it undectable to most antivirus
 - Fix bugs if any
-
-
-
